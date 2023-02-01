@@ -16,3 +16,6 @@ To make something like this has really poor documentation. All the documentation
 The sources listed below were the most useful in getting this to work.
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - CSS
 * [benc-uk/theme-msdark](https://github.com/benc-uk/theme-msdark) - An almost barebones Jekyll theme which proved the concept was possible. 
+
+## Demo
+A demonstration of the theme can be found [here](demo.md)
